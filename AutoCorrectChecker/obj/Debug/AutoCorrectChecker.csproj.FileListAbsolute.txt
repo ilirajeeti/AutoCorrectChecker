@@ -1,0 +1,15 @@
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\bin\Debug\AutoCorrectChecker.exe.config
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\bin\Debug\AutoCorrectChecker.exe
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\bin\Debug\AutoCorrectChecker.pdb
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.csproj.AssemblyReference.cache
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.Form1.resources
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.Properties.Resources.resources
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.csproj.GenerateResource.cache
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.exe.licenses
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.csproj.CoreCompileInputs.cache
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.csproj.CopyComplete
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.exe
+C:\Users\Ilir\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.pdb
