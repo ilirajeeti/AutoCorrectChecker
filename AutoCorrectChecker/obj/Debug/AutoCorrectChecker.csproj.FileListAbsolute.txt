@@ -20,7 +20,6 @@ C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\bin\Debug\Auto
 C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\bin\Debug\AutoCorrectChecker.pdb
 C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.csproj.AssemblyReference.cache
 C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.csproj.SuggestedBindingRedirects.cache
-C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.Form1.resources
 C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.cssTest.resources
 C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.htmlTest.resources
 C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.Properties.Resources.resources
@@ -33,3 +32,6 @@ C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\Auto
 C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.javascriptTest.resources
 C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.cSharpTest.resources
 C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.exe.config
+C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\thisi\source\repos\AutoCorrectChecker\AutoCorrectChecker\obj\Debug\AutoCorrectChecker.Form1.resources
