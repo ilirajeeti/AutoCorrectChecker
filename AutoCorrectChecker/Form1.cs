@@ -16,33 +16,5 @@ namespace AutoCorrectChecker
         {
             InitializeComponent();
         }
-
-        private void bunifuButton1_Click(object sender, EventArgs e)
-        {
-            var htmlTestForm = new htmlTest();
-            htmlTestForm.Show();
-            this.Hide();
-        }
-
-        private void bunifuButton2_Click(object sender, EventArgs e)
-        {
-            var cssFormTest = new cssTest();
-            cssFormTest.Show();
-            this.Hide();
-        }
-
-        private void bunifuButton3_Click(object sender, EventArgs e)
-        {
-            var javascriptFormTest = new javascriptTest();
-            javascriptFormTest.Show();
-            this.Hide();
-        }
-
-        private void bunifuButton4_Click(object sender, EventArgs e)
-        {
-            var csharpFormTest = new c_Test();
-            csharpFormTest.Show();
-            this.Hide();
-        }
     }
 }

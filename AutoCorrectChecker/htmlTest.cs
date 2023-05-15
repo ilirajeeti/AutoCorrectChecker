@@ -539,18 +539,9 @@ namespace AutoCorrectChecker
 
         private void bunifuButton5Test5_Click(object sender, EventArgs e)
         {
-            panel1.BackColor = SystemColors.ControlLight;
-
-            label1Test5.Hide();
-            label2Test5.Hide();
-            label3.Hide();
-            textBox1Test5.Hide();
-
-            bunifuButton1Test5.Hide();
-            bunifuButton2Test5.Hide();
-            bunifuButton3Test5.Hide();
-            bunifuButton4Test5.Hide();
-            bunifuButton5Test5.Hide();
+            var backToForm1 = new Form1();
+            backToForm1.Show();
+            this.Hide();
 
         }
     }
